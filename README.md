@@ -1,6 +1,6 @@
 # Building Hangman in JavaScript
 
-Welcome! In this crash course we're going to build a simple version of the game Hangman. This will be much easier to understand by those who have at least learned a little JavaScript but beginners should be able to pick up at least some of it.
+Welcome! In this crash course we're going to build a simple version of the game Hangman. This will be more easily understand by those who have at least learned a little JavaScript but beginners should be able to pick up at least some of it.
 
 There is a working copy of the page in the `complete` folder in this repository.
 
