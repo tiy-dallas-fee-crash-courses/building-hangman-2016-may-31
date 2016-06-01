@@ -1,5 +1,5 @@
 //Data/State
-var words = ['stupendous', 'variable', 'homeric', 'hellenistic', 'avengers'];
+var words = ['pleonastic', 'dinosaur', 'philanthropist', 'antarctica', 'meteorologist'];
 var randomWordNumber;
 var chosenWord;
 var chosenLetters;
